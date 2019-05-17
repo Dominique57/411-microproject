@@ -7,8 +7,10 @@
 * Octave (close to Mathlab)
 ---
 > given Matrix is :  
-* |-3|3|  
-* |5|-5|  
+```
+|-3|3|  
+|5|-5|  
+```
 ---
 > Prefered file formats are:  
 * PDF  
